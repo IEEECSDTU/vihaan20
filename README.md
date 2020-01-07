@@ -1,2 +1,2 @@
-# vihaan20
+# Vihaan20
 Website for Vihaan'20
