@@ -1,2 +1,4 @@
-# Vihaan20
-Website for Vihaan'20
+# vihaan17
+Vihaan 2017 website
+
+http://vihaan.tech/
