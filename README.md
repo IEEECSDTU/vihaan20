@@ -1,8 +1,6 @@
-## SACHACKS
+## Vihaan 3.0
 
-**NOTE**: You need to have NodeJS installed to run this project
-
-#### To start working on this project, Pls run the following commands in order
+#### To start working on this project, Please run the following commands in order
 
 1. Download all modules needed
 ```
@@ -52,10 +50,9 @@ home
 
 ## Contributor
 #### Developers
-* [BishalT](https://github.com/BishalT) - **Bishal Thapa**
-* [code-io](https://github.com/code-io) - **Munir Sayani**
-* [DerLee4](https://github.com/DerLee4) - **Derek Lee**
-* [LambertTran](https://github.com/LambertTran) - **Lambert Tran**
+* [dhruv10](https://github.com/dhruv10) - **Dhruv Bhatnagar**
+* [ShivamKansal](https://github.com/ShivamKansal) - **ShivamKansal**
+* [HemabhKamboj](https://github.com/HemabhKamboj) - **Hemabh Kamboj**
 
-#### Designers
-* [genesiating](https://www.linkedin.com/in/genesiating/) - **Genesia Ting**
+#### Inspiration
+* [sachacks](https://sachacks.io/)
