@@ -39,6 +39,10 @@
   background: white;
 }
 
+.track {
+  height: 600px !important;
+}
+
 .bg-broken-hearts {
   background: #d9a7c7;
   /* fallback for old browsers */
@@ -120,7 +124,8 @@ tr {
 }
 
 .sch-tit-blu {
-  color: blue;
+  color: black;
+  width: 80%;
 }
 
 #devfolio-apply-now {
@@ -847,7 +852,11 @@ h1 {
   margin: 0;
   padding: 0;
 }
-.p-50-side { padding: 50px; }
+
+.p-50-side {
+  padding: 50px;
+}
+
 .wrapper {
   background: #000428;
   /* fallback for old browsers */
